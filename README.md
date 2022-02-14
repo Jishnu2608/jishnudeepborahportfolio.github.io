@@ -11,7 +11,6 @@ This is my personal portfolio.
 - Javascript
 - Iconscout for icons
 - Swiper CSS and JS for the sliders
-- JQuery CDN for the loader
 
 ## Features
 
