@@ -512,7 +512,7 @@ img{
 } */
 /*languages*/
 .skills__java{
-    width:65%;
+    width:75%;
 }
 .skills__python{
     width:45%;
@@ -520,7 +520,7 @@ img{
 .skills__mysql{
     width:70%;
 }
-.skills__cpp{
+.skills__Cpp{
     width:50%;
 }
 /*languages*/
