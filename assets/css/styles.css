@@ -495,10 +495,10 @@ img{
     width: 80%;
 }
 .skills__js{
-    width: 40%;
+    width: 50%;
 }
 .skills__react{
-    width: 60%;
+    width: 65%;
 }
 /*backend*/
 .skills__node{
@@ -511,21 +511,21 @@ img{
     width:40%;
 } */
 /*languages*/
-.skills__Cpp{
-    width:55%;
+.skills__java{
+    width:65%;
 }
 .skills__python{
-    width:60%;
+    width:45%;
 }
-.skills__C{
-    width:60%;
+.skills__mysql{
+    width:70%;
 }
-.skills__java{
+.skills__cpp{
     width:50%;
 }
 /*languages*/
 .skills__aws{
-    width:70%;
+    width:80%;
 }
 .skills__azure{
     width:30%;
@@ -533,8 +533,8 @@ img{
 .skills__gcp{
     width:70%;
 }
-.skills__ibmcloud{
-    width:90%;
+.skills__salesforce{
+    width:80%;
 }
 .skills__close .skills__list{
     height: 0;
